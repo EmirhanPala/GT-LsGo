@@ -1,0 +1,43 @@
+////// Account Stats
+Cash = 501
+BBal = 0
+Cars = UF1 XFG XRG
+Distance = 32
+Health = 100
+License = 0
+JobsDone = 0
+LLotto = 0
+Tickets = 0
+LChannel = 0
+///// Player Authorization
+Officer = 0
+TowTruck = 0
+Member = 0
+Cadet = 0
+Mafia = 0
+///// Player Settings
+Speedo = 0
+Odometer = 0
+DistView = 0
+Displays = 0
+OfcrBox = 0
+Bonus Level = 0
+Cigarettes = 0
+GUIX2 = 0
+GUIY2 = 90
+GUIStyle = 2
+///// Renting
+Renting = 0
+Rented = 0
+Renter = 
+Renterr = 
+Rentee = 
+///// Items
+Item1 = 0
+Item2 = 0
+Item3 = 0
+Item4 = 0
+///// Player Info
+Registered : ^1M-TeCh'^7Emir (EfsaneTosun)
+Last Login : 8.10.2020 17:04:50
+LastSeen : 

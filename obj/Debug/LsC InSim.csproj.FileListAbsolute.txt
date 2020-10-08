@@ -1,0 +1,20 @@
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\bin\Debug\LSC Client.exe
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\bin\Debug\LSC Client.pdb
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\LFS_External_Client.Form1.resources
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\LSC_Client.Properties.Resources.resources
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\LsC InSim.csproj.GenerateResource.Cache
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\LSC Client.exe
+D:\Data\Cruise Insim\LsCThe Insim\GCS Source\obj\Debug\LSC Client.pdb
+C:\Games\LFS_S2_DEDI_Z28\LsC Source\obj\Debug\LSC Client.exe
+C:\Games\LFS_S2_DEDI_Z28\LsC Source\obj\Debug\LSC Client.pdb
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\LSC Client.exe
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\LSC Client.pdb
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\ResolveAssemblyReference.cache
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\LFS_External_Client.Form1.resources
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\LSC_Client.Properties.Resources.resources
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\obj\Debug\LsC InSim.csproj.GenerateResource.Cache
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\bin\Debug\LSC Client.exe
+C:\Games\LFS_S2_DEDI_Z28\LsC Race Director\bin\Debug\LSC Client.pdb
+D:\Data\LsGO Race Director\LsGO Race Director\obj\Debug\LSC Client.exe
+D:\Data\LsGO Race Director\LsGO Race Director\obj\Debug\LSC Client.pdb

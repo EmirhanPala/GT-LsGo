@@ -1,0 +1,44 @@
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\RLC Client.exe
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\RLC Client.pdb
+C:\Users\Radoslav\Desktop\[GT]\bin\Debug\RLC Client.exe
+C:\Users\Radoslav\Desktop\[GT]\bin\Debug\RLC Client.pdb
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\Driving[GT] Cruise.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\RLC_Client.Properties.Resources.resources
+C:\Users\Radoslav\Desktop\[GT]\obj\Debug\Driving[GT] Cruise.csproj.GenerateResource.Cache
+C:\Users\FOX\Desktop\[GT]\obj\Debug\RLC Client.exe
+C:\Users\FOX\Desktop\[GT]\obj\Debug\RLC Client.pdb
+C:\Users\FOX\Desktop\[GT]\bin\Debug\RLC Client.exe
+C:\Users\FOX\Desktop\[GT]\bin\Debug\RLC Client.pdb
+C:\Users\FOX\Desktop\[GT]\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FOX\Desktop\[GT]\obj\Debug\RLC_Client.Properties.Resources.resources
+C:\Users\FOX\Desktop\[GT]\obj\Debug\Driving[GT] Cruise.csproj.GenerateResource.Cache
+C:\Users\FOX\Desktop\[GT]\obj\Debug\Driving[GT] Cruise.csprojResolveAssemblyReference.cache
+D:\Програми и простотии\[GT]\obj\Debug\RLC Client.exe
+D:\Програми и простотии\[GT]\obj\Debug\RLC Client.pdb
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\RLC Client.exe
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\RLC Client.pdb
+C:\Users\FOX\Desktop\Нова папка\[GT]\bin\Debug\RLC Client.exe
+C:\Users\FOX\Desktop\Нова папка\[GT]\bin\Debug\RLC Client.pdb
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\Driving[GT] Cruise.csprojResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\RLC_Client.Properties.Resources.resources
+C:\Users\FOX\Desktop\Нова папка\[GT]\obj\Debug\Driving[GT] Cruise.csproj.GenerateResource.Cache
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\RLC Client.exe
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\RLC Client.pdb
+C:\Users\Emir\Desktop\[GT] LsGo\bin\Debug\RLC Client.exe
+C:\Users\Emir\Desktop\[GT] LsGo\bin\Debug\RLC Client.pdb
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\Driving[GT] Cruise.csprojResolveAssemblyReference.cache
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\RLC_Client.Properties.Resources.resources
+C:\Users\Emir\Desktop\[GT] LsGo\obj\Debug\Driving[GT] Cruise.csproj.GenerateResource.Cache
+D:\İnsimler\[GT] LsGo\obj\Debug\RLC Client.exe
+D:\İnsimler\[GT] LsGo\obj\Debug\RLC Client.pdb
+F:\İnsimler\[GT] LsGo\obj\Debug\RLC Client.exe
+F:\İnsimler\[GT] LsGo\obj\Debug\RLC Client.pdb
+F:\İnsimler\[GT] LsGo\bin\Debug\RLC Client.exe
+F:\İnsimler\[GT] LsGo\bin\Debug\RLC Client.pdb
+F:\İnsimler\[GT] LsGo\obj\Debug\Driving[GT] Cruise.csprojResolveAssemblyReference.cache
+F:\İnsimler\[GT] LsGo\obj\Debug\LFS_External_Client.Form1.resources
+F:\İnsimler\[GT] LsGo\obj\Debug\RLC_Client.Properties.Resources.resources
+F:\İnsimler\[GT] LsGo\obj\Debug\Driving[GT] Cruise.csproj.GenerateResource.Cache

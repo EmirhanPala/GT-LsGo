@@ -1,0 +1,31 @@
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\bin\Debug\LFS_External_Client.exe
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\bin\Debug\LFS_External_Client.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\bin\Debug\LFS_External.dll
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\bin\Debug\LFS_External.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\LFS_External_Client.Properties.Resources.resources
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\lfs_external_csf11.csproj.GenerateResource.Cache
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\LFS_External_Client.exe
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf20\lfs_external_csf20\obj\Debug\LFS_External_Client.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf20\obj\Debug\LFS_External_Client.exe
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf20\obj\Debug\LFS_External_Client.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\bin\Debug\LFS_External_Client.exe
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\bin\Debug\LFS_External_Client.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\bin\Debug\LFS_External.dll
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\bin\Debug\LFS_External.pdb
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\LFS_External_Client.Properties.Resources.resources
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\lfs_external_csf11.csproj.GenerateResource.Cache
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\LFS_External_Client.exe
+C:\Users\T-RonX\Documents\Visual Studio 2005\Projects\lfs_external_csf11\lfs_external_csf11\obj\Debug\LFS_External_Client.pdb
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\LFS_External_Client.exe
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\LFS_External_Client.pdb
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\bin\Debug\LFS_External_Client.exe
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\bin\Debug\LFS_External_Client.pdb
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\bin\Debug\LFS_External.pdb
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\LFS_External_Client.Form1.resources
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\LFS_External_Client.Properties.Resources.resources
+D:\Data\Jr\Old files of inline boi\Old files\GIR Cruise Insim S2\lfs_external_csf11\obj\Debug\lfs_external_csf11.csproj.GenerateResource.Cache

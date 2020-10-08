@@ -1,0 +1,9 @@
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\LFS_External_Client.exe
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\LFS_External_Client.pdb
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\bin\Debug\LFS_External_Client.exe
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\bin\Debug\LFS_External_Client.pdb
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\bin\Debug\LFS_External.pdb
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\LFS_External_Client.Form1.resources
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\LFS_External_Client.Properties.Resources.resources
+D:\Data\Cruise Insim\LC Base Insim\LC Insim\obj\Debug\LC Insim.csproj.GenerateResource.Cache

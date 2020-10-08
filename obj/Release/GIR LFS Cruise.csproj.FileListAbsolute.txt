@@ -1,0 +1,8 @@
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\bin\Release\GCS Client.exe
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\bin\Release\GCS Client.pdb
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\ResolveAssemblyReference.cache
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\LFS_External_Client.Form1.resources
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\GCS_Client.Properties.Resources.resources
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\GIR LFS Cruise.csproj.GenerateResource.Cache
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\GCS Client.exe
+D:\Data\Cruise Insim\GIR Cruise Insim Rebuild\lfs_external_csf11\obj\Release\GCS Client.pdb
